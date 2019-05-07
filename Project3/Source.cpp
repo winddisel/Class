@@ -23,6 +23,7 @@ int main()
 	fr1.Print();
 
 	fr1 = fr1.CalcDivision(fr3, fr2);
+	fr1.Print2(fr3, fr2);
 	fr1.Print();
 
 	/*Википедиа: числитель первой дроби умножить на числитель второй дроби 

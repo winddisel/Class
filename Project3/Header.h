@@ -45,9 +45,8 @@ public:
 	void Print2(Fraction object1, Fraction object2)
 	{
 		cout << endl << "  " << object1.numerator << "  division on   " << object2.numerator;
-		cout<< endl << " ---" << "                   ---" << endl;
+		cout<< endl << "  ---" << "              ---" << endl;
 		cout<<"  " << object1.denominator<<"                "<<object2.denominator << endl;
-
 	}
 
 	void Print()
